@@ -1,0 +1,1 @@
+This Fixed Deposit (FD) calculator, developed using PyQt5, provides users with a user-friendly interface to easily compute potential earnings on their investments. By inputting the principal amount, interest rate, and tenure, users can quickly determine the total returns and interest accrued, making informed financial decisions simpler.
